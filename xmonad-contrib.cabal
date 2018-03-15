@@ -105,6 +105,7 @@ library
                         XMonad.Actions.FocusNth
                         XMonad.Actions.GridSelect
                         XMonad.Actions.GroupNavigation
+                        XMonad.Actions.HelloWorld
                         XMonad.Actions.KeyRemap
                         XMonad.Actions.Launcher
                         XMonad.Actions.LinkWorkspaces
